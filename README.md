@@ -28,7 +28,7 @@ GolangSSHServer 2222           Starts the SSH server on localhost:2222
 
 or
 
-GolangSSHServer 0.0.0.0:2222   Starts the SSH server on 0.0.0.0:2222
+GolangSSHServer 0.0.0.0 2222   Starts the SSH server on 0.0.0.0:2222
 ```
 7) Connect to the SSH server with your SSH client + authentication key
 ```
