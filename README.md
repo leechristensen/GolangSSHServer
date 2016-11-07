@@ -26,7 +26,7 @@ GolangSSHServer 0.0.0.0:2222   Starts the SSH server on 0.0.0.0:2222
 ```
 5) Connect to the SSH server with your SSH client + authentication key
 ```
-ssh -i authkey user@localhost
+ssh -i authkey user@localhost -p2222
 ```
 
 # Thanks
